@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaotingPlayer", "FlaotingPlayer\FlaotingPlayer.csproj", "{D614D11D-3AAD-4008-A178-44E06961DF28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D614D11D-3AAD-4008-A178-44E06961DF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D614D11D-3AAD-4008-A178-44E06961DF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D614D11D-3AAD-4008-A178-44E06961DF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D614D11D-3AAD-4008-A178-44E06961DF28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {171616AB-4E02-435A-BA73-55161297A8B9}
+	EndGlobalSection
+EndGlobal
