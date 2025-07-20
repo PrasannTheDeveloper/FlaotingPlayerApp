@@ -1,4 +1,4 @@
-Here’s your **improved and professional-looking documentation**, with clear formatting, a prominent install link, and a polished tone:
+Here is your updated and polished documentation with the new section **“Why I Created This App”** added, along with a placeholder section for screenshots:
 
 ---
 
@@ -12,6 +12,13 @@ Here’s your **improved and professional-looking documentation**, with clear fo
 ## 🌟 Overview
 
 **Floating Player** is a modern, lightweight Windows desktop application built with **WinForms** and **WebView2**, allowing you to browse and multitask effortlessly. Watch YouTube, use ChatGPT, open WhatsApp or LinkedIn — all while working on other applications. The app stays **always on top**, so you never lose focus.
+
+---
+
+## ❓ Why I Created This App
+
+I built **Floating Player** to solve a personal pain point — there was **no official app that allowed floating, always-on-top browser tabs** for websites like YouTube or ChatGPT. Existing browsers didn’t offer a smooth or native solution.
+So, I created this app to fulfill my own need for **a multitasking-friendly floating browser**, and now I’m sharing it with others who might find it just as useful.
 
 ---
 
@@ -37,6 +44,13 @@ Here’s your **improved and professional-looking documentation**, with clear fo
 
 * 💾 **Persistent Settings**
   All your added websites and customizations are saved locally using JSON.
+
+---
+
+## 🖼️ Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/647aab4d-5f80-45dd-9b28-753ce6702357" />
+
+<img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/54ac1066-6b8d-4d0d-8d7f-c6b069bb12e4" />
 
 ---
 
@@ -67,4 +81,10 @@ Here’s your **improved and professional-looking documentation**, with clear fo
 
 ---
 
-Let me know if you want a **README.md** version or a **PDF** version for publishing or sharing!
+Let me know if you’d like:
+
+* A **live GIF demo** section
+* A **Markdown version** ready to paste into GitHub
+* Help hosting the screenshots properly on GitHub
+
+Just send the screenshots and I’ll add them for you!
