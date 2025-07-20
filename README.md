@@ -1,4 +1,3 @@
-Here is your updated and polished documentation with the new section **“Why I Created This App”** added, along with a placeholder section for screenshots:
 
 ---
 
@@ -81,10 +80,3 @@ So, I created this app to fulfill my own need for **a multitasking-friendly floa
 
 ---
 
-Let me know if you’d like:
-
-* A **live GIF demo** section
-* A **Markdown version** ready to paste into GitHub
-* Help hosting the screenshots properly on GitHub
-
-Just send the screenshots and I’ll add them for you!
