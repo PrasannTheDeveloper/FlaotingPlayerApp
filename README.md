@@ -4,7 +4,7 @@
 # 🖥️ Floating Player – Windows App
 
 🚀 **Download & Install Now**
-👉 [Click here to download Floating Player (via Google Drive)](https://drive.google.com/file/d/1jX5xFThnLZuwUgEfbbJTnZ1YrJ1FNHjv/view?usp=sharing)
+👉 [Click here to download Floating Player (via Google Drive)](https://drive.google.com/file/d/1glYQpS70Vvh0gToFVlPu8MgQFZkygKLw/view?usp=drive_link)
 
 ---
 
